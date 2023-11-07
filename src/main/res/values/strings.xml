@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Translator_app</string>
+    <string name="et_translation">Text to be translated</string>
+    <string name="btn_translation">TRANSLATE</string>
+    <string name="toast_empty_text_field">Text to be translated cannot be empty!</string>
+    <string name="api_key">"DAEDAP1YeFcv33hrFB1+Z39dKJ8m8abkMfcaCAKN1EGxVunS4nt0k+9Iq7wU74hnMmTZKk0+GQSq/rN5Bnie0vdZ1y8/EwMLvVlElQ=="</string>
+</resources>
